@@ -1,7 +1,6 @@
 # temp_hooks_test
 Temporary for testing api hooks
-This is the first local change commit
+This is the changed first local change commit
 CHANGED TO COMMIT
+* inserted *
 FIX error
-changed again
-added js file test
