@@ -4,3 +4,4 @@ This is the changed first local change commit
 CHANGED TO COMMIT
 * inserted *
 FIX error
+CHANGED
