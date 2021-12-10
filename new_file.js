@@ -1,4 +1,4 @@
 // This is a test
 // other comment
-// changed again
+// changed again and again
 alert('This is a new file test');
