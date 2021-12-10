@@ -1,1 +1,1 @@
-"my name is".split(" ") + ["Klaus"]
+"my name is".split(" ") + ["Klaus".upcase]
